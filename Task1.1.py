@@ -19,6 +19,7 @@ for item1, item2 in comb(list, 2):
     count.append(len(m)*10)
 tuple = [(y[0],count[0]),(y[1],count[1]),(y[2],count[2]),(y[3],count[3]),(y[4],count[4]),(y[5],count[5])]
 final = (sorted(tuple, key = lambda x: x[1], reverse=True))
+final.pop()
 print( '   DJ DUO,  Music Overlap %')
 for i in range(len(final)):
     print(i+1,'.',final[i])
@@ -30,4 +31,3 @@ for i in range(len(final)):
 # 3 . ('Stuart & Bob', 40)
 # 4 . ('Stuart & Edith ', 40)
 # 5 . ('Bob & Edith ', 30)
-# 6 . ('Kevin & Edith ', 10)
