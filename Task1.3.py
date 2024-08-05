@@ -59,7 +59,7 @@ if __name__ == '__main__':
         total_spending(Name)
         account_balance(Name)
         money_owed(Name)
-        print("**\'-\' sign denotes removal**")
+        print("**\'-\' sign denotes admin putting in his own money**")
     else:
         print("Enter Correct Admin Name")
 
@@ -71,4 +71,4 @@ if __name__ == '__main__':
 # -500.0 Posters
 # The final balance of Gaurang is: -1000.0
 # The committee owes Gaurang 3000.0
-# **'-' sign denotes removal**
+# **'-' sign denotes admin putting in his own money**
