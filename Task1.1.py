@@ -8,7 +8,7 @@ Bob = {"Conan Gray", "Joji", "Dove Cameron", "Mitski", "Arctic Monkeys", "Steve 
        "Isabel LaRosa", "Shawn Mendes", "Coldplay", "Lauv"}
 Edith = {"Metallica", "Billie Ellish", "TheWeeknd", "Mitski", "NF", "Conan Gray", "Kendrick Lamar", "Nicky Minaj",
          "Kanye West", "Coldplay"}
-list = [Stuart, Bob, Edith, Kevin]
+list = [Kevin,Stuart, Bob,Edith]
 people = 'Kevin', 'Stuart', 'Bob', 'Edith '
 x = comb(people, 2)
 y = [' & '.join(i) for i in x]
@@ -26,8 +26,8 @@ for i in range(len(final)):
 
 # OUTPUT
 #    DJ DUO,  Music Overlap %
-# 1 . ('Kevin & Stuart', 40)
-# 2 . ('Kevin & Bob', 40)
-# 3 . ('Stuart & Bob', 40)
-# 4 . ('Stuart & Edith ', 40)
-# 5 . ('Bob & Edith ', 30)
+# 1 . ('Kevin & Bob', 40)
+# 2 . ('Stuart & Bob', 40)
+# 3 . ('Stuart & Edith ', 40)
+# 4 . ('Bob & Edith ', 40)
+# 5 . ('Kevin & Edith ', 30)
