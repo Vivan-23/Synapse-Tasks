@@ -1,0 +1,36 @@
+Book ID,Book Name,Author,Genre,Type,Availability,Size
+BK001,The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,Books,True,1168 pages
+BK002,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Books,True,352 pages
+BK003,Pride and Prejudice,Jane Austen,Romance,Books,True,224 pages
+BK004,To Kill a Mockingbird,Harper Lee,Historical Fiction,Books,True,324 pages
+BK005,The Great Gatsby,F. Scott Fitzgerald,Fiction,Books,True,180 pages
+BK006,One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,Books,True,472 pages
+BK007,Frankenstein,Mary Shelley,Gothic Fiction,Books,True,211 pages
+BK008,The Catcher in the Rye,J. D. Salinger,Coming-of-Age,Books,True,220 pages
+BK009,Moby Dick,Herman Melville,Adventure,Books,True,858 pages
+BK010,1984,George Orwell,Dystopian Fiction,Books,True,352 pages
+DVD001,The Shawshank Redemption,Frank Darabont,Drama,DVDs,False,142 Mins
+DVD002,Casablanca,Michael Curtiz,Romance,DVDs,True,102 Mins
+DVD003,The Godfather,Francis Ford Coppola,Crime Drama,DVDs,True,177 Mins
+MAG001,National Geographic,National Geographic Society,Science,Magazines,False,128 pages
+MAG002,The New Yorker,The New Yorker,Fiction,Magazines,True,52 pages
+MAG003,Time,Time Inc.,News,Magazines,True,80 pages
+BK011,The Adventures of Huckleberry Finn,Mark Twain,Satire,Books,True,352 pages
+BK012,The Grapes of Wrath,John Steinbeck,Social Realism,Books,True,400 pages
+BK013,Invisible Man,Ralph Ellison,Bildungsroman,Books,False,581 pages
+BK014,Beloved,Toni Morrison,Historical Fiction,Books,True,321 pages
+BK015,The Handmaid's Tale,Margaret Atwood,Dystopian Fiction,Books,True,344 pages
+BK016,Jane Eyre,Charlotte Brontë,Romance,Books,True,480 pages
+BK017,The Adventures of Tom Sawyer,Mark Twain,Coming-of-Age,Books,True,224 pages
+BK018,A Tale of Two Cities,Charles Dickens,Historical Fiction,Books,True,256 pages
+BK019,The Count of Monte Cristo,Alexandre Dumas,Adventure,Books,True,1170 pages
+BK020,The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,Books,True,224 pages
+DVD004,The Matrix,The Wachowskis,Science Fiction,DVDs,True,136 Mins
+DVD005,The Silence of the Lambs,Jonathan Demme,Crime Drama,DVDs,True,118 Mins
+DVD006,Inception,Christopher Nolan,Science Fiction,DVDs,True,148 Mins
+MAG004,The Atlantic,The Atlantic Monthly Group,News,Magazines,True,72 pages
+MAG005,The Economist,The Economist Newspaper Ltd.,News,Magazines,True,88 pages
+MAG006,National Geographic Traveler,National Geographic Society,Travel,Magazines,True,104 pages
+BK021,The War of the Worlds,H.G. Wells,Science Fiction,Books,True,208 pages
+BK022,The Martian,Andy Weir,Science Fiction,Books,False,384 pages
+BK023,Dune,Frank Herbert,Science Fiction,Books,True,800 pages
